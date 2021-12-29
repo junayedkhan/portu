@@ -1,0 +1,12 @@
+// === bootstrap === //
+@import "~bootstrap/scss/bootstrap";
+
+
+// === defaults === //
+@import "defaults/reset";
+
+
+//  === elements === //
+@import "elements/side_bar_left";
+@import "elements/main_content";
+@import "elements/side_bar_right";
